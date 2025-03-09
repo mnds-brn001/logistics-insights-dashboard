@@ -34,22 +34,22 @@ Com um design refinado e Dark Mode otimizado, a solução permite tomadas de dec
 
 ## 🛠 Como Rodar o Projeto  
 
-### **2️⃣ Crie um Ambiente Virtual e Instale as Dependências:**  
+### **1️⃣ Clone o Repositório:**  
 ```bash
 python -m venv venv
 source venv/bin/activate  # No Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-### **3️⃣ Execute o Dashboard:**  
+### **2️⃣ Crie um Ambiente Virtual e Instale as Dependências:**  
 ```bash
-streamlit run Home.py
+source venv/bin/activate  # No Windows: venv\Scripts\activate
+pip install -r requirements.txt
 ```
 
-### **1️⃣ Clone o Repositório:**  
+### **3️⃣ Execute o Dashboard:**  
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+streamlit run home.py
 ```
 
 ---
