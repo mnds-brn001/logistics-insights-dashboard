@@ -5,7 +5,7 @@ O **Supply Chain Dashboard** é uma ferramenta interativa projetada para fornece
 
 🌙 **Dark Mode otimizado** para melhor experiência visual.  
 📊 **KPIs estratégicos** para insights rápidos.  
-📈 **Visualizações impactantes** para análise de qualidade e logística.  
+📈 **Visualizações intuitivas** para análise de qualidade e logística.  
 
 ---
 
