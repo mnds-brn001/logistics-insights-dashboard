@@ -2,7 +2,7 @@
 
 🔍 **Visão Geral**  
 
-O **Dashboard de Supply Chain* é uma ferramenta interativa desenvolvida para fornecer insights acionáveis sobre a cadeia de suprimentos, permitindo a análise de qualidade, eficiência logística e desempenho de transportadoras.
+O **Dashboard de Supply Chain** é uma ferramenta interativa desenvolvida para fornecer insights acionáveis sobre a cadeia de suprimentos, permitindo a análise de qualidade, eficiência logística e desempenho de transportadoras.
 
 Com um design refinado e Dark Mode otimizado, a solução permite tomadas de decisões estratégicas baseadas em dados, reduzindo custos e melhorando a eficiência operacional.
 
@@ -20,7 +20,7 @@ Com um design refinado e Dark Mode otimizado, a solução permite tomadas de dec
 
 -  **Dark Mode** otimizado para melhor experiência visual
 -  **KPIs Estratégicos** com insights rápidos
--  **Visualizações** Impactantes para análise de qualidade e logística
+-  **Visualizações** impactantes para análise de qualidade e logística
 -  **Filtros** Interativos para segmentação dos dados
 -  Foco em Usabilidade com **layout responsivo e intuitivo**
 
@@ -53,3 +53,16 @@ streamlit run home.py
 ```
 
 ---
+### 📌 Melhorias Futuras
+- Integração com APIs para dados em tempo real.
+- Expansão da análise para fornecedores e estoque.
+
+---
+### 📍 Observação
+
+
+⚠️ Esta é uma versão demonstrativa do dashboard. A versão completa inclui mais análises e interatividade.
+
+
+
+
