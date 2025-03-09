@@ -22,7 +22,7 @@ Com um design refinado e Dark Mode otimizado, a solução permite tomadas de dec
 -  **KPIs Estratégicos** com insights rápidos
 -  **Visualizações** Impactantes para análise de qualidade e logística
 -  **Filtros** Interativos para segmentação dos dados
--  Foco em Usabilidade com **layout responsivo e intuitivo*
+-  Foco em Usabilidade com **layout responsivo e intuitivo**
 
 ---
 
