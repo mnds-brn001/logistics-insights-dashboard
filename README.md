@@ -55,8 +55,8 @@ pip install -r requirements.txt
 
 ### **2️⃣ Crie um Ambiente Virtual e Instale as Dependências:**  
 ```bash
-source venv/bin/activate  # No Windows: venv\Scripts\activate
-pip install -r requirements.txt
+git clone https://github.com/mnds-brn001/logistics-insights-dashboard
+cd logistics-insights-dashboard
 ```
 
 ### **3️⃣ Execute o Dashboard:**  
