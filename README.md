@@ -18,17 +18,28 @@ Com um design refinado e Dark Mode otimizado, a solução permite tomadas de dec
 
 ## 🎯 Destaques do Projeto  
 
+- ** Interface Organizada por Cadeia de Suprimento, Qualidade e Transportadoras
 -  **Dark Mode** otimizado para melhor experiência visual
 -  **KPIs Estratégicos** com insights rápidos
 -  **Visualizações** impactantes para análise de qualidade e logística
--  **Filtros** Interativos para segmentação dos dados
+-  **Filtros Interativos** para segmentação dos dados
 -  Foco em Usabilidade com **layout responsivo e intuitivo**
 
 ---
 
-## 📸 Screenshots  
+## 📸 Dashboard em Ação
 
+<div align="center">
+  <img src="assets/dashboard.png" width="45%">
+  <img src="assets/dashboard1.png" width="45%">
  
+  <img src="assets/dashboard2.png" width="45%">
+  <img src="assets/dashboard3.png" width="45%">
+  
+  <img src="assets/dashboard4.png" width="45%">
+
+</div>
+
 
 ---
 
@@ -43,8 +54,8 @@ pip install -r requirements.txt
 
 ### **2️⃣ Crie um Ambiente Virtual e Instale as Dependências:**  
 ```bash
-source venv/bin/activate  # No Windows: venv\Scripts\activate
-pip install -r requirements.txt
+git clone https://github.com/mnds-brn001/logistics-insights-dashboard
+cd logistics-insights-dashboard
 ```
 
 ### **3️⃣ Execute o Dashboard:**  
@@ -56,12 +67,15 @@ streamlit run home.py
 ### 📌 Melhorias Futuras
 - Integração com APIs para dados em tempo real.
 - Expansão da análise para fornecedores e estoque.
+- Análises avançadas utilizando modelos de Machine Learning e análise estatística.
 
 ---
 ### 📍 Observação
 
 
 ⚠️ Esta é uma versão demonstrativa do dashboard. A versão completa inclui mais análises e interatividade.
+
+
 
 
 
