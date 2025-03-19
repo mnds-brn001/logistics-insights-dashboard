@@ -18,7 +18,7 @@ Com um design refinado e Dark Mode otimizado, a solução permite tomadas de dec
 
 ## 🎯 Destaques do Projeto  
 
-- ** Interface Organizada por Cadeia de Suprimento, Qualidade e Transportadoras
+- **Interface Organizada** por Cadeia de Suprimento, Qualidade e Transportadoras
 -  **Dark Mode** otimizado para melhor experiência visual
 -  **KPIs Estratégicos** com insights rápidos
 -  **Visualizações** impactantes para análise de qualidade e logística
@@ -39,7 +39,6 @@ Com um design refinado e Dark Mode otimizado, a solução permite tomadas de dec
   <img src="assets/dashboard4.png" width="45%">
 
 </div>
-
 
 ---
 
@@ -73,7 +72,7 @@ streamlit run home.py
 ### 📍 Observação
 
 
-⚠️ Esta é uma versão demonstrativa do dashboard. A versão completa inclui mais análises e interatividade.
+⚠️ O código contém uma versão demonstrativa do dashboard. A versão completa inclui mais análises e interatividade como visto nas imagens.
 
 
 
